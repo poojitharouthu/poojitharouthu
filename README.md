@@ -16,7 +16,7 @@ Featured Project:
 Expense Tracker — a clean and minimal Flask-based tracker with a custom UI layout
 
 Get in Touch:
-GitHub: @poojitharouthu
+GitHub: https://github.com/poojitharouthu
 
 Fun Fact:
 I love building tiny aesthetic projects that look simple but are satisfying to use.
